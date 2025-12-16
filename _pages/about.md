@@ -8,7 +8,7 @@ author_profile: true
 Hi, I’m **LiangZiKang**.
 
 I am a **graduate student** at the **School of Computer Science and Engineering, Northeastern University (NEU), China**. 
-My Advisor's Personal Homepage: **click here**()
+My Advisor's Personal Homepage: **[click here](https://liusongran.github.io/)**
 
 My research interests include **Embedded Systems**, **Operating Systems**, and related system-level software engineering.
 
