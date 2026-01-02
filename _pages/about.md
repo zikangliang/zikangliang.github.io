@@ -28,5 +28,5 @@ My research interests include **Embedded Systems**, **Operating Systems**, and r
 - **Graduate in Computer Science**, Northeastern University (NEU), China, **2025–Present**
 
 ## Links
-- GitHub: **[https://github.com/liangzikang1](https://github.com/liangzikang1)**
+- GitHub: **[https://github.com/liangzikang1](https://github.com/zikangliang)**
 - Email: **[liangziakang1@163.com](mailto:liangziakang1@163.com)**
