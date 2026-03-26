@@ -25,6 +25,8 @@ My research interests include **Embedded Systems**, **Operating Systems**, and r
 
 - **GTAD** [click here](https://github.com/zikangliang/GTAD)
 
+- **chatgpt-pins** [click here](https://github.com/zikangliang/chatgpt-pins)
+
 ## Education
 - **Undergraduate in Computer Science**, Yanshan University, **2021–2025**
 - **Graduate in Computer Science**, Northeastern University (NEU), China, **2025–Present**
